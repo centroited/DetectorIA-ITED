@@ -1,11 +1,11 @@
 # Historial de cambios
 
-## 2.0 — Publicación inicial en GitHub
+## Publicación en GitHub
 
-- Publicación del archivo `DetectorIA_ITED_v2.md` sin cambios respecto del original proporcionado por el autor.
+- Publicación del archivo `DetectorIA_ITED.md` con la denominación unificada del proyecto.
 - Documentación de uso, límites, valoraciones y contribuciones.
 
-### Cambios de V2 respecto de la versión anterior
+### Características del agente
 
 - Checklist con evidencia, mejora, pasos de corrección y ejemplo breve.
 - Estados de cumplimiento, no verificable y no aplica.

@@ -1,4 +1,4 @@
-# Cómo contribuir
+# Contribuir a DetectorIA
 
 Gracias por ayudar a mejorar DetectorIA.
 

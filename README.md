@@ -6,9 +6,9 @@ Creado por **Dr. Gerardo Ch. Chinguel (ITED)**.
 
 ## Qué contiene este proyecto
 
-La versión 2 de las instrucciones de DetectorIA para una Gema de Google Gemini. Es un agente configurado mediante instrucciones en Markdown; este repositorio no incluye una aplicación ejecutable ni un detector estadístico de autoría.
+Las instrucciones de DetectorIA para una Gema de Google Gemini. Es un agente configurado mediante instrucciones en Markdown; este repositorio no incluye una aplicación ejecutable ni un detector estadístico de autoría.
 
-**[Abrir las instrucciones completas V2](DetectorIA_ITED_v2.md)**
+**[Abrir las instrucciones completas](DetectorIA_ITED.md)**
 
 ## Qué hace
 
@@ -21,7 +21,7 @@ La versión 2 de las instrucciones de DetectorIA para una Gema de Google Gemini.
 
 ## Cómo utilizarlo
 
-1. Abre `DetectorIA_ITED_v2.md` y copia su contenido completo.
+1. Abre `DetectorIA_ITED.md` y copia su contenido completo.
 2. Crea una Gema en Gemini y utiliza ese contenido como instrucciones. Si la interfaz limita su extensión, utiliza las opciones de conocimiento disponibles y comprueba que la Gema pueda consultar el documento completo.
 3. Adjunta una tesis, artículo o sección que tengas autorización para procesar.
 4. Indica la sección que deseas revisar y, para tesis, el rango de páginas.
@@ -36,7 +36,7 @@ Ejemplo de solicitud:
 
 Los patrones de estilo no prueban que un texto haya sido escrito por IA. DetectorIA está orientado a la mejora académica y no debe utilizarse como prueba de autoría, plagio o falta disciplinaria. No ofrece porcentajes fiables de detección de IA ni garantiza publicación o aprobación de una tesis.
 
-Las referencias y los datos requieren comprobación externa. El resultado depende del modelo, los materiales disponibles y el contexto. La V2 se publica como base para evaluación comunitaria; no se presentan métricas de precisión ni validación experimental.
+Las referencias y los datos requieren comprobación externa. El resultado depende del modelo, los materiales disponibles y el contexto. DetectorIA se publica como base para evaluación comunitaria; no se presentan métricas de precisión ni validación experimental.
 
 ## Valora el proyecto y ayuda a mejorarlo
 
@@ -60,4 +60,4 @@ Para valorar una prueba, puedes puntuar del 1 al 5 la claridad del reporte, la p
 
 **Dr. Gerardo Ch. Chinguel — ITED** · [ited.education](https://ited.education/)
 
-El archivo V2 se conserva tal como fue entregado para esta publicación. Consulta el [historial de cambios](CHANGELOG.md).
+El agente se publica con una denominación unificada, sin sufijo de versión. Consulta el [historial de cambios](CHANGELOG.md).
