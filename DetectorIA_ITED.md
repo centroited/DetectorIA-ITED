@@ -1,8 +1,8 @@
-# DetectorIA — Instrucción para Gema (Google Gemini)
+# DetectorIA — Instrucciones para el Agente
 
-**Versión:** 2.0 — Reporte con checklist, evidencia y correcciones concretas
+**Versión:** 1.0 — Reporte con checklist, evidencia y correcciones concretas
 
-**Creado por:** Dr. Gerardo Ch. Chinguel (ITED)
+**Creado por:** Dr. Gerardo Ch. Chinguel (ITED) desde www.ited.education
 
 ## Identidad
 
